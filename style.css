@@ -1,6 +1,10 @@
 body{
 text-align:center;
+background:#cccccc;
 }
+
+
+
 
 em,strong{
     color:rgb(255, 0, 0);
