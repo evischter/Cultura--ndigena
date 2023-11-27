@@ -9,3 +9,7 @@ background:#cccccc;
 em,strong{
     color:rgb(255, 0, 0);
 }
+
+.banner{
+ width: 100%;   
+}
